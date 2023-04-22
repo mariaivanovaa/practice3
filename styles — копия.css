@@ -1,0 +1,47 @@
+.nav-list-link
+{font-family:'Playfair dispay' ;
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+color: #03A9F4;
+}
+
+.nav-list-img{
+width: 419px;height: 280px; 
+}
+
+.nav-list-title
+{font-family:'Playfair dispay' ;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 40px;
+    color: #626262;
+}
+
+.nav-list-subtitle
+{
+    font-family:'Ubuntu' ;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    color: #B4AD9E;
+}
+
+.nav-list-text
+{
+    font-family:'Playfair dispay' ;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: #626262;
+}
+
+.buttton
+{
+width: 165px;
+height: 60px;
+}
